@@ -1,0 +1,21 @@
+{
+  "name": "assignment1/assignment1",
+  "type": "project",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "keywords": [],
+  "authors": [
+    {
+      "name": "arifr",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
